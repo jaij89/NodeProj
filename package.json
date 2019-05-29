@@ -1,0 +1,23 @@
+{
+  "name": "nodeproj",
+  "version": "1.0.0",
+  "description": "todo app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaij89/NodeProj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaij89/NodeProj/issues"
+  },
+  "homepage": "https://github.com/jaij89/NodeProj#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
